@@ -18,4 +18,4 @@ story public link 6 = https://us-west-2b.online.tableau.com/#/site/priyarat3042/
 
 story public link 7 = https://us-west-2b.online.tableau.com/#/site/priyarat3042/views/story7/Story7
 
-video demonstration link =
+video demonstration link =https://drive.google.com/file/d/1GtUTZfeae6pyp2ZVYNaC5IQlxLck28tc/view?usp=drivesdk
